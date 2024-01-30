@@ -1,7 +1,9 @@
 import FeedbackComponent from './components/functionalComponent/FeedBackComponent';
 import "../src/components/functionalComponent/FeedBackComponent"
 
+
 function App() {
+  
   return (
     <div className="App">
     <FeedbackComponent/>
