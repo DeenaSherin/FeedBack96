@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import './FeedBackComponent.css'; // Import your CSS file (if any)
+import './FeedBackComponent.css'; 
 import poorImage from '../images/poor.png';
 import badImage from '../images/bad.png';
 import okayImage from '../images/okay.png';
